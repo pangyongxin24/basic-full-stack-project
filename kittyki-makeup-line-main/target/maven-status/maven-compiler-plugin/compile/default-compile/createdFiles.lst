@@ -1,3 +1,6 @@
 com/kittyki/project/model/Product.class
-com/kittyki/project/Main.class
 com/kittyki/project/model/User.class
+com/kittyki/project/dao/jdbc/DbConnection.class
+com/kittyki/project/exceptions/Exceptions.class
+com/kittyki/project/Main.class
+com/kittyki/project/exceptions/Exceptions$DbException.class
