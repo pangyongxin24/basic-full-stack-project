@@ -1,17 +1,17 @@
 package com.kittyki.project.model;
 
 public class User {
-    private String id;
+    private int id;
     private String name;
     private String lastName;
     private int age;
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
+    public void setId(int i) {
+        this.id = i;
     }
 
     public String getName() {
